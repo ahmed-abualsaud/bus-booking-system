@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "busbooking-305718",
+  "private_key_id": "3de348abb37519ebddbdeae5c8864ff5026d6d01",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpsqwCSMsTCXsL\nhVBnS+QdylUtk66XmKsb145lBC+TYZFYxtIe7Sa8jYomc42eYlt3mGVCnt6yDI6i\nZvFS7GzZRiRPUnlX1DXlOa3IzgJ/0jKreTUveUxlCT7iu7nc+cXlsHLL3gE0PXQH\n9tboEnT/RcjCZBVODUAiCXeizb6DZqB8PQn255N3Eey0eTHtP2DrLaORXUPNXxUv\nPpCNGqKikMPUb9z4MWDbtBgTMzs6OBwb4L9/Huhmqj1H++GB9GhUIcwwdkCZyWGK\nCPg7n7uiTk/HB13U/SVm9xtFff8LrGVaTMHuXKBji1S0TaDkEWXM/yqhFnpEs90H\nxfcEVXSVAgMBAAECggEABX763EhHj9pUANBeK9MU2rq+Z2KiOjJj2+iikD0VnfnN\nB3Mv0KtNTWu6ttpk7D8GJ6ZI8a9fCfG0EeiKT6CTUumKZgMUDBpPoSWtB8HVg2Ng\n22+QxfTKzfZOpT2/iO7FY2L2vAl4s2lh6QGF15zRBLtM6fzShgVevet3Rpxp9R8p\ngr3v3d5rU22Ru8FisHhXNUlvLEWJESoG9v7alhtUyF2VgmnG+HEnhixxyAm2F6FA\n1opoBEpBuq83aYrNJKvmtuoZXacF5+I1LqRhdtZ87ytNVjq5ZWtA6Qq0CJ3euXdc\nlPsBJID55hsHjflIhdf7lqe0CfMo7uUoegWHGy9T4QKBgQDbaGo/Rvc+HyyqrB71\n5Xa78jw5gPMCvT9RGs8ztM+FIL1AlOZ8fc7tx03kKL8fG/gwDv7/vrBT5pwvJxOv\n7as8wtikISZe58bBOpypM/z5zVIsx+pdbn7Wicm94POuo+nHGpK4NLiSNYUAEVDy\n8qOaUx5fkKLZxkN9C9YLqHdCdQKBgQDF/+Yi8VKvZZjtwnskulrTcKSaVmE0KfD3\nRRSl+CBP6pRoHg0MYv7P3H6SRViKdX5DVhSb9hH8WJ9B7elfEgi66o2ou2YzDsy2\nOBDCWsJ5jkd2deytHTwxPihkgygXNTVXnvGR5gLIKXyDyFdfTvFh0UXYw+By83rH\n6njttxrloQKBgC7firtD/PQPkupPZTnhMNGMOaOLUd9G8Ozxzkxcl2z4hpXyeZ8k\n/X088/4HWnVZ81bJDV8zrNXv0XQdZA5Utx1+/utpjZn+6C5FyEw5qBTx8VlRyFb3\nkS9iNnBTS5wGtp3rpmamFLxfpK9UA7gzcBI7KaT+8FuYCLkBO1Q4RGo1AoGAC7mo\nvj7+P4bLtKDEvBsRD95m0QD2hqlJLMt5eo6kEzd4DGZjLW2bW2HaWP0kTibBEGnD\nlKzQydnRrIzTOh8OR0tmkixu0+03cD8Htwq644nqb3hySJonm17r82/U6vLqssKl\n2Zb+aS4TwpYVnn5FSx6ifUC0RPpoNfiLqsAiJqECgYBMP+PXvSxhLBr2ycV3XhEX\nHjr3moeeZ54fhKjNU9u3KN4p3Ephtn1C1bfF6EGMU7Ocb22PT/+d9GnYg3rDssio\nUlqRbdVN+TGuvU5Zyj9ha0kQC6gfca9y1uu2Ew3dgzeNpZMhvH9kg4UPn8HSdVI8\nhXvGU+Y0FDn1P9/DTC16Dg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-98484@busbooking-305718.iam.gserviceaccount.com",
+  "client_id": "105173686790421850962",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-98484%40busbooking-305718.iam.gserviceaccount.com"
+}

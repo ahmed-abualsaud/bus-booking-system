@@ -1,0 +1,45 @@
+.map {
+	position: absolute;
+	width: 70%;
+	height: 70%;
+	top: 15%;
+	left: 15%;
+	z-index: 3;
+}
+
+.search {
+	position: absolute;
+	top: 86%;
+	left: 77.35%;
+	width: 60px;
+	margin: auto;
+	padding: 10px 20px;
+	background: linear-gradient(135deg, rgb(106, 219, 157) 0%, rgb(23, 167, 88) 100%);
+	color: white;
+	opacity: 2;
+	z-index: 9;
+	cursor: pointer;
+}
+
+.ret {
+	position: absolute;
+	top: 86%;
+	left: 15%;
+	color: white;
+	z-index: 9;
+}
+
+.panel{
+	display: none;
+}
+.panel-show{
+	position: absolute;
+	background-color: white;
+	z-index: 10;
+}
+
+.log {
+	position: absolute;
+	background-color: white;
+	z-index: 10;
+}

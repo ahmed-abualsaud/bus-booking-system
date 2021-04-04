@@ -9,11 +9,17 @@
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
+        "ext-rdkafka": "^3.0.3|^4.0|^5.0",
+        "enqueue/rdkafka": "^0.10.8",
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
+        "kreait/laravel-firebase": "^3.1",
         "laravel/framework": "^8.12",
-        "laravel/tinker": "^2.5"
+        "laravel/tinker": "^2.5",
+        "nicklasw/s2-geometry-library-php": "^2.0",
+        "pusher/pusher-php-server": "^5.0",
+        "queue-interop/queue-interop": "^0.8"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
